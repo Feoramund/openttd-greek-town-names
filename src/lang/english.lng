@@ -1,0 +1,5 @@
+##grflangid 0x00
+
+STR_GRF_NAME        :Greek Town Names
+STR_GRF_DESCRIPTION :{GOLD}Greek Town Names{}{BLACK}A random generator that makes pseudo-Greek town names with syllables based on ancient Greek cities and names.{}{}{BLACK}Copyright: {SILVER}Feoramund{}{BLACK}Date: {SILVER}2024-04-27{}{BLACK}License: {SILVER}GPLv2
+STR_SET_NAME        :Greek

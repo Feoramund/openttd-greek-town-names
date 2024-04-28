@@ -1,0 +1,302 @@
+grf {
+	grfid: "Fe\01\01";
+	name: string(STR_GRF_NAME);
+	desc: string(STR_GRF_DESCRIPTION);
+	version: 1;
+	min_compatible_version: 0;
+}
+
+// Components
+
+town_names(onset_base) {
+	{
+		text("Acti", 1),
+		text("Ado", 1),
+		text("Ae", 1),
+		text("Aega", 1),
+		text("Ama", 1),
+		text("Anaxi", 1),
+		text("Apo", 1),
+		text("Ata", 1),
+		text("Ba", 1),
+		text("Bou", 1),
+		text("By", 1),
+		text("Cy", 1),
+		text("De", 1),
+		text("Deme", 1),
+		text("Demo", 1),
+		text("Dio", 1),
+		text("Do", 1),
+		text("Endy", 1),
+		text("Ephy", 1),
+		text("Eu", 1),
+		text("Ha", 1),
+		text("Hy", 1),
+		text("Ia", 1),
+		text("Ita", 1),
+		text("Itha", 1),
+		text("Kana", 1),
+		text("Ky", 1),
+		text("Magne", 1),
+		text("Mega", 1),
+		text("Mi", 1),
+		text("My", 1),
+		text("Myo", 1),
+		text("Nea", 1),
+		text("Neo", 1),
+		text("Niko", 1),
+		text("Ny", 1),
+		text("Oe", 1),
+		text("Ono", 1),
+		text("Pa", 1),
+		text("Pha", 1),
+		text("Phi", 1),
+		text("Pho", 1),
+		text("Tana", 1),
+		text("Tene", 1),
+		text("Theo", 1),
+		text("Tima", 1),
+	}
+}
+
+town_names(onset_s) {
+	{
+		text("Astu", 1),
+		text("Cassi", 1),
+		text("Isa", 1),
+		text("Perse", 1),
+		text("Posei", 1),
+		text("Psy", 1),
+		text("Sa", 1),
+		text("Samo", 1),
+		text("Sesto", 1),
+		text("So", 1),
+		text("Za", 1),
+		text("Zeno", 1),
+	}
+}
+
+town_names(onset_r) {
+	{
+		text("Akra", 1),
+		text("Andro", 1),
+		text("Aphro", 1),
+		text("Ari", 1),
+		text("Aria", 1),
+		text("Aristo", 1),
+		text("Arte", 1),
+		text("Cro", 1),
+		text("Ere", 1),
+		text("Hera", 1),
+		text("Imbro", 1),
+		text("Kamari", 1),
+		text("Kra", 1),
+		text("Mara", 1),
+		text("Nea", 1),
+		text("Ny", 1),
+		text("Pra", 1),
+		text("Rho", 1),
+		text("Socra", 1),
+		text("Tara", 1),
+	}
+}
+
+town_names(onset_l) {
+	{
+		text("Agla", 1),
+		text("Alexa", 1),
+		text("Ali", 1),
+		text("Caly", 1),
+		text("Cleo", 1),
+		text("Ela", 1),
+		text("Eleu", 1),
+		text("Gla", 1),
+		text("Hele", 1),
+		text("Ialy", 1),
+		text("Iola", 1),
+		text("Kalli", 1),
+		text("La", 1),
+		text("Meli", 1),
+		text("Phylo", 1),
+		text("Plato", 1),
+		text("Sala", 1),
+		text("Seleu", 1),
+	}
+}
+
+town_names(coda_base) {
+	{
+		text("caea", 1),
+		text("cium", 1),
+		text("cles", 1),
+		text("cus", 1),
+		text("deus", 1),
+		text("dne", 1),
+		text("don", 1),
+		text("donia", 1),
+		text("dos", 1),
+		text("dusa", 1),
+		text("ma", 1),
+		text("mander", 1),
+		text("medon", 1),
+		text("menai", 1),
+		text("mia", 1),
+		text("misia", 1),
+		text("monia", 1),
+		text("mos", 1),
+		text("na", 1),
+		text("naios", 1),
+		text("nia", 1),
+		text("nidos", 1),
+		text("nius", 1),
+		text("nos", 1),
+		text("nthos", 1),
+		text("peion", 1),
+		text("phia", 1),
+		text("phone", 1),
+		text("pios", 1),
+		text("polis", 1),
+		text("teia", 1),
+		text("thos", 1),
+		text("toli", 1),
+		text("tos", 1),
+		text("vos", 1),
+		text("xia", 1),
+	}
+}
+
+town_names(coda_s) {
+	{
+		text("sai", 1),
+		text("seus", 1),
+		text("sus", 1),
+		text("xis", 1),
+	}
+}
+
+town_names(coda_l) {
+	{
+		text("blos", 1),
+		text("lai", 1),
+		text("lanta", 1),
+		text("lea", 1),
+		text("lene", 1),
+		text("lessa", 1),
+		text("lon", 1),
+		text("lonia", 1),
+		text("los", 1),
+	}
+}
+
+town_names(coda_r) {
+	{
+		text("creon", 1),
+		text("deris", 1),
+		text("dria", 1),
+		text("meros", 1),
+		text("rene", 1),
+		text("renia", 1),
+		text("ria", 1),
+		text("rissa", 1),
+		text("ros", 1),
+		text("thera", 1),
+	}
+}
+
+// Structured Names
+
+town_names(generated_base) {
+	{
+		town_names(onset_base, 1),
+	}
+	{
+		town_names(coda_base, 1),
+	}
+}
+
+town_names(generated_lx_euphonic) {
+	{
+		town_names(onset_l, 1),
+	}
+	{
+		town_names(coda_base, 1),
+		town_names(coda_r, 1),
+		town_names(coda_s, 1),
+	}
+}
+
+town_names(generated_rx_euphonic) {
+	{
+		town_names(onset_r, 1),
+	}
+	{
+		town_names(coda_base, 1),
+		town_names(coda_l, 1),
+		town_names(coda_s, 1),
+	}
+}
+
+town_names(generated_sx_euphonic) {
+	{
+		town_names(onset_s, 1),
+	}
+	{
+		town_names(coda_base, 1),
+		town_names(coda_l, 1),
+		town_names(coda_r, 1),
+	}
+}
+
+town_names(generated_xl_euphonic) {
+	{
+		town_names(onset_base, 1),
+		town_names(onset_r, 1),
+		town_names(onset_s, 1),
+	}
+	{
+		town_names(coda_l, 1),
+	}
+}
+
+town_names(generated_xr_euphonic) {
+	{
+		town_names(onset_base, 1),
+		town_names(onset_l, 1),
+		town_names(onset_s, 1),
+	}
+	{
+		town_names(coda_r, 1),
+	}
+}
+
+town_names(generated_xs_euphonic) {
+	{
+		town_names(onset_base, 1),
+		town_names(onset_l, 1),
+		town_names(onset_r, 1),
+	}
+	{
+		town_names(coda_s, 1),
+	}
+}
+
+// Final List
+
+town_names(generated) {
+	{
+		town_names(generated_base, 8),
+		town_names(generated_lx_euphonic, 2),
+		town_names(generated_rx_euphonic, 2),
+		town_names(generated_sx_euphonic, 1),
+		town_names(generated_xl_euphonic, 2),
+		town_names(generated_xr_euphonic, 2),
+		town_names(generated_xs_euphonic, 1),
+	}
+}
+
+town_names(greek) {
+	styles: string(STR_SET_NAME);
+	{
+		town_names(generated, 1),
+	}
+}
